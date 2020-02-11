@@ -6,7 +6,6 @@ INDEX VERSION 1.131+/Volumes/Universidad/Repositorios/Eclipse/Java/.metadata/.pl
 3760443688.index
 1979179611.index
 3609919422.index
-2454703964.index
 1544200994.index
 3976115169.index
 2881411695.index
